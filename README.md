@@ -11,7 +11,7 @@ I'm a bachelo
   
 ## Languages
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=richardd82&theme=synthwave&show_icons=true&locale=en&layout=default" alt="richardd82" style="width:50%; margin-left:25%;"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=richardd82&theme=synthwave&show_icons=true&locale=en&layout=default" alt="richardd82" style="width:50%; margin-left:25%; text-align: center"/></p>
 
 ## My Experience!!
 
