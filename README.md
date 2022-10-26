@@ -4,7 +4,9 @@
 
 # Hello Im Richard  🤘🏽</center>
 
-I'm a bachelo
+<p>I'm a Bachelor of Science in Computer Engineering with an extense experience on Infrastructure, Networking and Server Managment but this year I set out to turn my professional career around by focusing on being a fullstack developer.</p>
+<p>Below you can see my technical skills</p>
+
 
 # My Statics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardd82&theme=synthwave&show_icons=true&locale=en" alt="richardd82" style="width:70%; margin-left:15%;"/></p>
