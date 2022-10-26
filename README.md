@@ -11,7 +11,7 @@ I'm a bachelo
   
 ## Languages
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=richardd82&theme=synthwave&show_icons=true&locale=en&layout=default" alt="richardd82" style="width:50%; margin-left:250px; text-align: center"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=richardd82&theme=synthwave&show_icons=true&locale=en&layout=default" alt="richardd82" style="width:50%;"/></p>
 
 ## My Experience!!
 
@@ -20,7 +20,7 @@ I'm a bachelo
 
 
 # My LinkedIn
-<a href="https://linkedin.com/in/richardd82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madrizjosea" style="width:20%; margin-left: 40%;" /></a>
+<center> <a href="https://linkedin.com/in/richardd82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madrizjosea" style="width:20%;" /></a> </center>
 
 
 <!--
