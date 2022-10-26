@@ -15,8 +15,8 @@ I'm a bachelo
 
 ## My Experience!!
 
-<p><img align="center" src="./assets/frontExperience.png" alt="richardd82" style="width:45%; margin-left:0%; float:left;" /></p>
-<p><img align="center" src="./assets/backExperience.png" alt="richardd82" style="width:45%; margin-left:0%; float:right;" /></p>  
+<p><img align="center" src="./assets/frontExperience.png" alt="richardd82" style="width:30%; margin-left:0%; float:left;" /></p>
+<p><img align="center" src="./assets/backExperience.png" alt="richardd82" style="width:30%; margin-left:0%; float:right;" /></p>  
 <p>  
 . 
 </p>
