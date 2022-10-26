@@ -18,9 +18,10 @@ I'm a bachelo
 <p><img align="left" src="./assets/frontExperience.png" alt="richardd82" style="width:47%; margin-left:0%; float:left;" /></p>
 <p><img align="right" src="./assets/backExperience.png" alt="richardd82" style="width:47%; margin-left:0%; float:right;" /></p>  
 
+<center> 
 
 # My LinkedIn
-<center> <a href="https://linkedin.com/in/richardd82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madrizjosea" style="width:20%;" /></a> </center>
+<a href="https://linkedin.com/in/richardd82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madrizjosea" style="width:20%;" /></a> </center>
 
 
 <!--
